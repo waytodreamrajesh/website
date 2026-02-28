@@ -1,2 +1,1 @@
-# website
-Cloud Nova Website
+This is for developers who visit your GitHub. Briefly describe your tech stack (Power Platform, Python, etc.)
